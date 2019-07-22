@@ -19,7 +19,10 @@ $this->title = 'TeamWork';
             <a href="/nkpedia/data/team/没有蛀牙_需求文档(1711396_1711297_1711298_1711300_1711431).pdf" class="btn btn-primary">需求文档</a>
             <a href="/nkpedia/data/team/没有蛀牙_设计文档(1711396_1711297_1711298_1711300_1711431).pdf" class="btn btn-success">设计文档</a>
             <a href="/nkpedia/data/team/没有蛀牙_部署文档(1711396_1711297_1711298_1711300_1711431).pdf" class="btn btn-warning">部署文档</a>
-            <a href="/nkpedia/data/install.sql" class="btn btn-danger">数据库源码</a>
+            <a href="/nkpedia/data/team/没有蛀牙_实现文档(1711396_1711297_1711298_1711300_1711431).pdf" class="btn btn-info">实现文档</a>
+            <a href="/nkpedia/data/team/没有蛀牙_用户手册(1711396_1711297_1711298_1711300_1711431).pdf" class="btn btn-danger">用户手册</a>
+            <a href="/nkpedia/data/team/没有蛀牙_项目展示(1711396_1711297_1711298_1711300_1711431).pptx" class="btn btn-primary">项目展示</a>
+            <a href="/nkpedia/data/install.sql" class="btn btn-success">数据库源码</a>
         </p>
         <!--<div class="progress-bar-success progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:70%"><span class="sr-only">70% Complete</span></div>-->
     </div>
